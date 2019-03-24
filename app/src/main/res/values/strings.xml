@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FormTastic</string>
+    <string name="isEmpty">Tidak Boleh Kosong!</string>
+</resources>
